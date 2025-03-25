@@ -1,6 +1,6 @@
 # Hi, I'm Kihyeok! :wave:
 
-🌱 As a **CS student**, I'm currently learning Computer Networks, Concurrent Programming, NLP at McGill University.
+🌱 As a **CS student**, I'm currently learning Computer Networks, Concurrent Programming, and NLP at McGill University.
 
 💻 As a **Cloud Infrastructure DevOps Intern**, I'm doing my best to learn a lot, contribute to the team, and most importantly enjoy the work! I love working with my team :sunglasses:
 
