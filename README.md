@@ -1,4 +1,4 @@
-# 💫 Hi, I'm Kihyeok! :wave:
+# Hi, I'm Kihyeok! :wave:
 
 🌱 As a **CS student**, I'm currently learning Computer Networks, Concurrent Programming, NLP at McGill University.
 
