@@ -2,7 +2,7 @@
 
 🌱 As a **CS student**, I'm currently learning Computer Networks, Concurrent Programming, NLP at McGill University.
 
-💻 As a **Cloud Infrastructure DevOps Intern**, I'm doing my best to learn a lot, contribute to the team, and most importantly enjoy th work! I love working with my team :sunglasses:
+💻 As a **Cloud Infrastructure DevOps Intern**, I'm doing my best to learn a lot, contribute to the team, and most importantly enjoy the work! I love working with my team :sunglasses:
 
 💡 Sadly my GitHub is pretty empty right now. Most of my old public projects don't have good git conventions either :cry: But my GitHub will be much more vibrant in the upcoming months :star:
 
