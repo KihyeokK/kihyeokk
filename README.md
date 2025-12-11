@@ -1,8 +1,8 @@
 # Hi, I'm Kihyeok! :wave:
 
-🌱 As a **CS student**, I'm currently learning Computer Networks, Concurrent Programming, and NLP at McGill University.
+🌱 I'm currently studying CS at McGill University 👨‍🎓
 
-💻 As a **Cloud Infrastructure DevOps Intern**, I'm doing my best to learn a lot, contribute to the team, and most importantly enjoy the work! I love working with my team :sunglasses:
+💻 I'm also working as a **Cloud Infrastructure DevOps Intern** at the same time 😄
 
 ## 💻 Tech Stack
 
