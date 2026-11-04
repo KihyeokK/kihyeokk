@@ -1,8 +1,6 @@
 # Hi, I'm Kihyeok! :wave:
 
-🌱 I'm currently studying CS at McGill University 👨‍🎓
-
-💻 I'm also working as a **Cloud Infrastructure DevOps Intern** at the same time 😄
+💻 I work as a **DevOps Engineer** :)
 
 ## 💻 Tech Stack
 
